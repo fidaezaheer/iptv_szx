@@ -1,0 +1,1 @@
+http://smexpress.mitake.com.tw:7003/SpSendUtf?username=0931581740&password=Q56128890@&dstaddr=8613580584233&smbody=%E9%AA%8C%E8%AF%81%E7%A0%81%3A780685&CharsetURL=utf-8

@@ -1,0 +1,1 @@
+<?php class Password{public $password = '1182432782';public $vkey = '123456';} ?>
