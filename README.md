@@ -59,6 +59,33 @@ To start the Nginx service, execute:
 sudo systemctl start nginx
 ```
 
+
+
+
+
+
+
+
+[![](https://github.com/david-syncoria/iptv_szx/raw/main/images/screencapture/left1.png)](https://github.com/david-syncoria/iptv_szx/blob/main/images/screencapture/left1.png)
+
+
+[![](https://github.com/david-syncoria/iptv_szx/raw/main/images/screencapture/left2.png)](https://github.com/david-syncoria/iptv_szx/blob/main/images/screencapture/left2.png)
+
+
+[![](https://github.com/david-syncoria/iptv_szx/raw/main/images/screencapture/left3.png)](https://github.com/david-syncoria/iptv_szx/blob/main/images/screencapture/left3.png)
+
+
+[![](https://github.com/david-syncoria/iptv_szx/raw/main/images/screencapture/left4.png)](https://github.com/david-syncoria/iptv_szx/blob/main/images/screencapture/left4.png)
+
+
+[![](https://github.com/david-syncoria/iptv_szx/raw/main/images/screencapture/left5.png)](https://github.com/david-syncoria/iptv_szx/blob/main/images/screencapture/left5.png)
+
+
+[![](https://github.com/david-syncoria/iptv_szx/raw/main/images/screencapture/left6.png)](https://github.com/david-syncoria/iptv_szx/blob/main/images/screencapture/left6.png)
+
+
+[![](https://github.com/david-syncoria/iptv_szx/raw/main/images/screencapture/left7.png)](https://github.com/david-syncoria/iptv_szx/blob/main/images/screencapture/left7.png)
+
 Execute the following command to stop the Nginx service:
 
 ```
