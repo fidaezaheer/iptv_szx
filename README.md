@@ -58,7 +58,8 @@ To start the Nginx service, execute:
 ```
 sudo systemctl start nginx
 ```
-
+APK LINK
+[![](http://szx.myiptv.cloud/admin/backup/SyncoriaTV.apk)](http://szx.myiptv.cloud/admin/backup/SyncoriaTV.apk)
 
 
 
