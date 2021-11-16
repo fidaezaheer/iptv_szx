@@ -27,3 +27,5 @@ http://szx.myiptv.cloud/admin/index.php?lang=1
 11. Authorization Management (base on MAC Address)
 * Off/ Suspend/ Permanent or Authorization  Remaining Date
 * Playlist Allocation Method: All Channels Allocated or Automatically assigning lists based on your region or Manually select list
+12. Encrypt the data between apk and backend by openssl_encrypt($data)
+13. Device Login IP address monitor (Maxim ip login account allowed configable)
